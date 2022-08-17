@@ -9,7 +9,7 @@ Using HTML and JavaScript, we created a web page that can dynamically display UF
 <img src = "static/images/UFO_web_app_page.png">
 
 ## Summary:
-One drawback with our current design is that the user input criteria are very precise; for example, a specific date.  This leads to no result displayed in many instances.
+One drawback with our current design is that the user input criteria are very precise, for example, a specific date.  This leads to no result displayed in many instances.
 
 We recommend the following improvements:
 
